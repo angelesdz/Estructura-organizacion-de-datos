@@ -1,2 +1,2 @@
 # Estructura-organizacion-de-datos
-Programas de la materia
+Programas por María de los Ángeles
